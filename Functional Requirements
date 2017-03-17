@@ -1,0 +1,22 @@
+Player:
+1.	Player has name, level, attack, defense.
+2.	Player Can equip items.
+3.	Player can use potions.
+4.	Player encounters randomly generated monsters.
+5.	Player can complete quests.
+
+Items:
+1.Items have durability.
+2. Some items will be required to enter certain locations.
+
+Locations
+1.Some locations must be accessed with a specific item.(see Items 2.)
+
+Monsters
+1.Monsters are randomly generated
+2.Their attributes are generated at random.
+
+Quests
+1.	Quests grant items.
+
+
