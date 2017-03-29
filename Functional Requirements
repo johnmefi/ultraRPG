@@ -20,3 +20,8 @@ Quests
 1.	Quests grant items.
 
 
+TODO: 
+ - smiths for the durability
+ - SAVE/LOAD
+ - how is savegame implemented? Database or file
+ - use or not this Graphic lib: https://docs.oracle.com/javase/tutorial/2d/ 
