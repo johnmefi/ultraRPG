@@ -5,6 +5,7 @@ Player:
 4.	Player encounters randomly generated monsters.
 5.	Player can complete quests.
 
+
 Items:
 1.Items have durability.
 2. Some items will be required to enter certain locations.
@@ -19,6 +20,15 @@ Monsters
 Quests
 1.	Quests grant items.
 
+#TO-DO Single Player:
+1. PLayer and four more bots compete 
+
+
+#TO-DO Multiplayer:
+1.Five players compete in the dungeon.
+
+World.
+1. #TO-DO
 
 TODO: 
  - smiths for the durability
