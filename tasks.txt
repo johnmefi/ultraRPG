@@ -1,0 +1,3 @@
+ - startup window - name of the game
+ - second window with dummy buttons -> new game, load game, settings, credits
+ - full screen by default
