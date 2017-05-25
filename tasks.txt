@@ -1,3 +1,6 @@
  - startup window - name of the game - DONE
  - second window with dummy buttons -> new game, load game, settings, credits - DONE
  - full screen by default
+
+Make an object (image) (png, jpg, bmp) move around using swing timing framework
+ - note: first execute/run some swing and timing examples /demos/
